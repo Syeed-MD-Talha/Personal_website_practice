@@ -1,0 +1,161 @@
+body 
+{  
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.section1
+{  
+    /* width: 100%; */
+    background-image: url("images/header-bg.png");
+    float: left;
+   
+}
+.section2
+{  
+    width: 100%;
+    background-image: url("images/biography-bg.png");
+    float: left;
+    background-color: azure;
+   
+}
+.section4{
+    padding-left: 10%;
+    float: left;
+    width: 100%;
+}
+.section4 img
+{
+    width: 25%;
+}
+
+.half-side
+{  
+    float: left;
+    width: 40%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    margin-top: 10%;
+    
+}
+.half-side img 
+{   
+    /* margin-top: 5%; */
+    width: 60%;
+}
+#t1
+{
+    color: rgb(243, 115, 136);
+    font-weight: bold;
+    font-size: 50px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#hh1{
+    text-align: center;
+    font-size: 100%;
+    font-weight: bold;
+
+}
+.button{
+    background-color:  rgb(243, 115, 136);
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    padding: 12px 12px;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom:5px ;
+    
+}
+.bottom_side
+{
+    background-color:  rgb(243, 115, 136);
+    
+     height: 30%;
+     width: 40%;
+     margin-top: 5%;
+     margin-left: 30%;
+     margin-bottom: 10%;
+     border-radius: 3%;
+}
+#card
+{
+   color: white;
+   padding: 5% 10% 5% 10%;
+}
+
+.sec3
+{
+    float: left;
+}
+.sec3 img{
+    padding-top: 5%;
+    padding-left: 5%;
+    width: 20%;
+}
+.section4{
+    background-image: url(images/latest-work-bg.png);
+    width: 100%;
+    height: 100%;
+}
+.section5{
+    /* padding-top: 100px; */
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    width: 100%;
+    height: 100%;
+}
+#sada{
+    
+    text-align: center;
+    padding-top: 100%;
+
+}
+.half h1
+{  
+    
+    font-size: 40px;
+}
+#tal
+{
+     /* text-align: center; */
+     padding: 4% 0% 4% 30%;
+     font-size: 200%;
+     
+}
+.half{
+    /* margin-top: 10%; */
+    padding-top: 100%;
+}
+.sc1 {
+
+    background-color: red;
+   
+    
+    padding-left: 5%;
+    padding-bottom: 10%;
+    margin-top: 10%;
+    
+    
+    /* margin-top: 20%;
+    text-align: center;
+   background-color: red;
+   border-radius: 2%;
+   color: green; */
+}
+#sc1-1{
+    text-align: center;
+    color: aliceblue;
+}
+/* section{
+    height: 500px;
+    padding-bottom: 150px;
+} */
+
+footer p
+{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
