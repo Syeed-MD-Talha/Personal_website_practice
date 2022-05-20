@@ -1,0 +1,21 @@
+.box
+{
+    width: 400px;
+    height: 200px;
+    border: 2px solid aqua;
+    overflow: scroll;
+    padding-left: 2px;
+}
+
+.pic{
+    height: 100px;
+    width: 100px;
+}
+
+.box2
+{
+    width: 400px;
+    height: 200px;
+    border: 2px solid red;
+    overflow: scroll;
+}
