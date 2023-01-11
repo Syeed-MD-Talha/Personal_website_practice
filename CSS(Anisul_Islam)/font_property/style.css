@@ -9,12 +9,22 @@
     font-size: 50px;
 }
 
-.id h1,
+.d h1 {
+    text-shadow: -5px -10px cyan
+}
+
+
 p {
     color: red;
-    text-shadow: -5px -10px gray;
+
+    /* text-shadow: -5px -10px rgb(128, 128, 128); */
 }
 
 .id p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+span {
+    font-size: 100px;
 }
