@@ -1,0 +1,22 @@
+h1 {
+    background-color: orange;
+    display: inline;
+}
+
+span {
+    background-color: orangered;
+}
+
+p {
+    max-width: 9000px;
+}
+
+p:hover {
+    background-color: black;
+    color: white;
+}
+
+li:nth-child(odd) {
+    background-color: black;
+    color: white;
+}
