@@ -1,0 +1,17 @@
+/* p {
+    opacity: 0.2;
+} */
+div {
+    height: 500px;
+    width: 700px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+img:hover {
+    opacity: 0.5;
+
+}

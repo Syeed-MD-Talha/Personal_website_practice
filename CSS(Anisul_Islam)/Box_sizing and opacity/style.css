@@ -1,0 +1,16 @@
+.div1 {
+    width: 40%;
+    height: 400px;
+    background-color: goldenrod;
+    padding: 10px;
+    border: solid 6px cyan;
+    box-sizing: border-box;
+    float: left;
+}
+
+.div2 {
+    width: 40%;
+    height: 400px;
+    background-color: rgb(32, 218, 103);
+    float: left;
+}
