@@ -1,0 +1,39 @@
+.div1 {
+    background-color: rgb(162, 215, 82);
+    width: 150px;
+    border: solid green 5px;
+    padding: 5px;
+    position: static;
+    top: 20px;
+}
+
+.div2 {
+    background-color: hwb(0 49% 24%);
+    width: 150px;
+    border: solid red 5px;
+    padding: 5px;
+    position: relative;
+    top: 0px;
+    left: 200px;
+}
+
+.div3 {
+    background-color: aquamarine;
+    width: 550px;
+    height: 350px;
+    border: solid cyan 6px;
+    padding: 5px;
+    position: relative;
+    left: 200px;
+}
+
+.div4 {
+    background-color: rgb(208, 208, 130);
+    width: 150px;
+    height: 150px;
+    border: solid rgb(251, 255, 0) 6px;
+    padding: 10px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
