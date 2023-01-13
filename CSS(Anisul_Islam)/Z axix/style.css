@@ -1,0 +1,16 @@
+.div1 {
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    z-index: 1;
+}
+
+.div2 {
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 200px;
+    top: 200px;
+}
