@@ -1,0 +1,35 @@
+.body {
+    box-sizing: border-box;
+}
+
+.menu {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+
+.menu a {
+
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    background-color: grey;
+}
+
+@media screen and (max-width:600px) {
+    .menu {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        background-color: gray;
+    }
+
+    .menu a:hover {
+        background-color: rgb(208, 194, 167);
+    }
+}
