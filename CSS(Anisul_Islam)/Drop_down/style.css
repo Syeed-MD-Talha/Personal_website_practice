@@ -2,7 +2,6 @@
     background-color: #40868b;
     padding: 1% 7%;
     text-align: center;
-
 }
 
 .navbar a {
@@ -19,7 +18,9 @@
 }
 
 .drop_content a {
-    display: block;
+    display: flex;
+    flex-direction: right;
+
 }
 
 .drop_content {
